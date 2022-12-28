@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Giot08
 - 👀 I’m interested in Remote work in USD
 - 🌱 I’m currently learning JAVA - REACT
-- 📫 How to reach me [http//www.giot.cl](https://giot.cl/)
+- 📫 How to reach me@giot.cl
