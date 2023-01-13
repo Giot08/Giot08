@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Giot08
-- 👀 I’m interested in Remote work in USD
-- 🌱 I’m currently learning JAVA - REACT
+- 👀 I’m interested in Remote work in USD, Kotlin Swift, Devops (learn)
+- 🌱 I’m currently working as shopify developer (JS - Node).
 - 📫 How to reach me@giot.cl
