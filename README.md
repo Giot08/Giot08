@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=giot08&color=red)
 
-- ⚠️ I've reset my github ereasing all my "projects", I do so because I want my github have meaninful projects to look in to, projects i can really use to offer a SAAS, APP, or a solution to a customer.
+- ⚠️ I've reset my github ereasing all my "projects", I do so because I want my github have meaninful projects to look in to, projects I can really use.
 - 🥇 I'm Fullstack Developer with a Higher Technician Diploma, with 2 1/2 years of experience.
 - 👀 I'm interested in remote work in usd, learning web technologies, move to the country of the company I work for.
 - 🌱 I'm currently working as shopify developer (JS - Node - Liquid - React).
