@@ -8,6 +8,7 @@
 - 🌱 I'm currently working as shopify developer (JS - Node - Liquid - React).
 - 🌱 Currently learning **Angular, Nest, React Native**
 - 📫 How to reach me: xgiot08@gmail.com
+- 🔗torme.dev (in development)
 - 📑 [Curriculum Vitae](https://github.com/Giot08/Giot08/blob/main/CV/CV-eng.pdf)
 
 ### Main Tech
