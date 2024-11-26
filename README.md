@@ -2,6 +2,7 @@
 ### Fullstack dev from 🇻🇪 living in 🇨🇱
 
 ![](https://komarev.com/ghpvc/?username=giot08&color=green)
+
 ![Giot08's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giot08&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
 
 - ⚠️ I've reset my github ereasing all my "projects", I do so because I want my github have meaninful projects to look in to, projects I can really use.
