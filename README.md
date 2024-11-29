@@ -3,6 +3,8 @@
 
 <a href="https://linkedin.com/in/jose-miguel-torres-medina-8473b2226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose-miguel-torres-medina-8473b2226" height="23" width="30" /></a> ![](https://komarev.com/ghpvc/?username=giot08&color=green) 
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giot08&show_icons=true&locale=en&layout=compact" alt="giot08" />
+
 ![Giot08's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giot08&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
 
 - ⚠️ I've reset my github ereasing all my "projects", I do so because I want my github have meaninful projects to look in to, projects I can really use.
@@ -12,5 +14,3 @@
 - 📫 How to reach me: xgiot08@gmail.com
 - 🔗torme.dev (in development)
 - 📑 [Curriculum Vitae](https://github.com/Giot08/Giot08/blob/main/CV/CV-eng.pdf)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giot08&show_icons=true&locale=en&layout=compact" alt="giot08" /></p>
