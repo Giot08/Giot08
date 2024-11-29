@@ -1,7 +1,7 @@
 # Jose Miguel Torres Medina 
 ### Fullstack dev from 🇻🇪 living in 🇨🇱
 
-<a href="https://linkedin.com/in/jose-miguel-torres-medina-8473b2226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose-miguel-torres-medina-8473b2226" height="23" width="30" /></a> ![](https://komarev.com/ghpvc/?username=giot08&color=green) 
+![Giot](https://komarev.com/ghpvc/?username=giot08&color=green) 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giot08&show_icons=true&locale=en&layout=compact" alt="giot08" />
 
